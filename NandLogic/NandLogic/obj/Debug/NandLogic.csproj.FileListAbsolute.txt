@@ -1,0 +1,6 @@
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\bin\Debug\NandLogic.exe.config
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\bin\Debug\NandLogic.exe
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\bin\Debug\NandLogic.pdb
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\obj\Debug\NandLogic.csprojResolveAssemblyReference.cache
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\obj\Debug\NandLogic.exe
+c:\users\aaron.strohl\documents\visual studio 2013\Projects\NandLogic\NandLogic\obj\Debug\NandLogic.pdb
